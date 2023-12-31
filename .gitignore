@@ -1,0 +1,7 @@
+# subject to change as I learn what is and is not required for this project to compile
+
+# Visual Studio Folders
+.vs/
+Debug/
+Release/
+x64/
