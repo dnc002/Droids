@@ -12,5 +12,6 @@ private:
 
 public:
 	spaceObject();
+	~spaceObject();
 	sf::ConvexShape* returnShape();
 };
